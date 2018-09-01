@@ -27,7 +27,7 @@ img {
   margin: auto;
 }
 
-.navbar-brand{
+.navbar-light .navbar-brand{
   color: #6EC4BD;
   font-size: 40px;
 }
