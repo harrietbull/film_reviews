@@ -24,6 +24,11 @@ body {
   position: relative;
 }
 
+.card-body {
+  background-color: #FA7C92;
+  color: white;
+}
+
 img {
   max-width: 100%;
   height: auto;
